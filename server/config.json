@@ -1,0 +1,16 @@
+{
+  "name": "MW Action Server",
+  "ip": "0.0.0.0",
+  "portHttp": 4001,
+  "jwt": {
+    "secret": "azerty",
+    "bundle_identifier": "fr.mwactu.application",
+    "applicationId": "com.mwactudev"
+  },
+  "encrypt": {
+    "secret": "azerty"
+  },
+  "http": {
+    "key": "azerty"
+  }
+}
